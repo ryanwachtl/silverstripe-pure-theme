@@ -1,0 +1,27 @@
+{
+	"name": "rywa/silverstripe-pure-theme",
+	"type": "silverstripe-theme",
+	"description": "SilverStripe Theme Based on Pure: A set of small, responsive CSS modules that you can use in every web project.",
+	"keywords": ["silverstripe", "theme", "pure", "css", "responsive"],
+	"license": "MIT Open Source License",
+	"authors": [
+		{
+			"name": "Ryan Wachtl",
+			"homepage": "http://rywa.us"
+		}
+	],
+	"require":
+	{
+		"composer/installers": "*",
+		"silverstripe/framework": "~3.0"
+	},
+	"extra": {
+		"installer-name": "pure",
+		"branch-alias": {
+			"dev-master": "0.9.x-dev"
+		}
+	},
+	"support": {
+		"issues": "https://github.com/ryanwachtl/silverstripe-pure-theme/issues"
+	}
+}
