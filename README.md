@@ -5,10 +5,6 @@ SilverStripe Pure Theme
 
 A set of small, responsive CSS modules that you can use in every web project.
 
-Featuring [Navigataur: A pure CSS responsive navigation menu](https://github.com/micjamking/Navigataur)
-
-![SilverStripe Foundation Theme](https://raw.github.com/ryanwachtl/silverstripe-skeleton-theme/master/images/screenshot.png)
-
 Installation
 =================================
 
